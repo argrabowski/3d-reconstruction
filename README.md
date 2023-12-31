@@ -32,8 +32,6 @@ cd 3d-reconstruction
 python sfm.py
 ```
 
-Make sure to customize the input images and directories as needed within the script.
-
 ## Script Overview
 
 1. **Read Images:**
