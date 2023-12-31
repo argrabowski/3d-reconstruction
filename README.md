@@ -2,6 +2,8 @@
 
 This repository contains a Python script for camera calibration and 3D reconstruction using OpenCV and Open3D libraries. The script takes a pair of images, performs camera calibration using chessboard corners, matches features between the images, and reconstructs the 3D scene.
 
+https://github.com/argrabowski/3d-reconstruction/assets/64287065/54e03f55-40de-4f7d-87a1-cdf5c9f5d09b
+
 ## Requirements
 
 - Python 3.10
